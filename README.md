@@ -7,7 +7,7 @@ I'm a passionate and curious software developer with a love for coding and techn
 I'm currently working on frontend and web application development. I believe in continuous learning, and I'm always looking to improve my skills and expand my knowledge in in full stack and mobile app development.
 
 ## My Tech Stack
-- Programming Languages: python,c++, javaScript and c#
+- Programming Languages: python,c++, javaScript 
 - Frontend Development:  HTML, CSS, JavaScript, 
 - Backend Development: Node.js, Python, 
 - Databases: SQL
