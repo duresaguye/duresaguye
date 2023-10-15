@@ -1,10 +1,10 @@
-# Hi there, I'm duresaguye! 👋
+# Hi there, I'm duresa guye! 👋
 
 ## About Me
-I'm a passionate and curious software developer with a love for coding and technology. My journey into the world of programming started with python first programming language i took online when i was in highschool. Since then, I've been exploring various aspects of software development, and I enjoy turning ideas into functional and efficient solutions.
+I'm a passionate and curious software developer with a love for coding and technology. 
 
 ## What I'm Currently Working On
-I'm currently working on front end and web application development. I believe in continuous learning, and I'm always looking to improve my skills and expand my knowledge in in full stack and mobile app development.
+I'm currently working on frontend and web application development. I believe in continuous learning, and I'm always looking to improve my skills and expand my knowledge in in full stack and mobile app development.
 
 ## My Tech Stack
 - Programming Languages: python,c++, javaScript and c#
