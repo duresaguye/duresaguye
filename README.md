@@ -1,7 +1,7 @@
-# Hi there, I'm duresa guye! 👋
+# Hi there, I'm Duresa Guye! 👋
 
 ## About Me
-I'm a passionate and curious software developer with a love for coding and technology. 
+I'm a passionate and curious junior software developer with a love for coding and technology. 
 
 ## What I'm Currently Working On
 I'm currently working on frontend and web application development. I believe in continuous learning, and I'm always looking to improve my skills and expand my knowledge in in full stack and mobile app development.
@@ -9,7 +9,7 @@ I'm currently working on frontend and web application development. I believe in 
 ## My Tech Stack
 - Programming Languages: python,c++, javaScript 
 - Frontend Development:  HTML, CSS, JavaScript, 
-- Backend Development: Node.js, Python, 
+- Backend Development:  Python 
 - Databases: SQL
 
 
@@ -17,8 +17,8 @@ I'm currently working on frontend and web application development. I believe in 
 
 Feel free to reach out if you want to discuss programming, collaborate on a project, or just have a friendly chat!
 
-## Fun Fact
-he first computer "bug" was an actual bug! In 1947, Grace Hopper, a computer scientist working on the Mark II computer at Harvard University, discovered a moth stuck in the machine's components. This was causing an error, and upon its discovery, she remarked they were "debugging" the system. This is where the term "debugging" comes from in computer programming
+
+
 
 
 
