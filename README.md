@@ -11,6 +11,7 @@ I'm currently working on frontend and web application development. I believe in 
 - Frontend Development:  HTML, CSS, JavaScript, 
 - Backend Development:  Python 
 - Databases: SQL
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duresaguye)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
