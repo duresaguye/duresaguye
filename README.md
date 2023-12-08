@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duresaguye&label=Profile%20views&color=0e75b6&style=flat" alt="duresaguye" /> </p>
 
-- 🌱 I’m currently learning **Node.js and Flutter**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **js,python**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **dureguye2@gmail.com**
 
