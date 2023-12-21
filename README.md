@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **dureguye2@gmail.com**
 
-- ⚡ Fun fact **The Octocat, GitHub's beloved mascot, originated from the fusion of a cat and octopus in a nod to the five branches of Git, symbolizing collaboration and code control. 🐱🐙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
