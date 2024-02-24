@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **python**
+
 
 - 📫 How to reach me **dureguye2@gmail.com**
 
