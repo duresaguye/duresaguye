@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Duresa Guye</h1>
-<h3 align="center">I'm a passionate and curious front-end engineer and junior software developer with a love for coding and technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duresaguye&label=Profile%20views&color=0e75b6&style=flat" alt="duresaguye" /> </p>
 
