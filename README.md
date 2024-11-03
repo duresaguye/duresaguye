@@ -3,9 +3,10 @@ Web developer🌍 
  I'm based in Ethiopia 🖥️  
 
 See my portfolio at [duresa.me](http://duresa.me)✉️ 
- You can contact me at [dureguye2@gmail.com](mailto:dureguye2@gmail.com)* 🧠  
+ You can contact me at [dureguye2@gmail.com](mailto:dureguye2@gmail.com)  
 
-I'm learning backend development djnago and Laravel* 🤝  I'm open to collaborating on Backend development, django,Laravel* 
+I'm learning backend development djnago and Laravel
+ 🤝  I'm open to collaborating on Backend development, django,Laravel 
 
 ⚡  I'm secretly Spider-Man... but don't tell anyone
 
