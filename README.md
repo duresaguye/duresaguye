@@ -9,7 +9,7 @@ Web developer
 *   🖥️  See my portfolio at [duresa.me](http://duresa.me)
 *   ✉️  You can contact me at [dureguye2@gmail.com](mailto:dureguye2@gmail.com)
 *   🧠  I'm learning backend development djnago and Laravel
-*   🤝  I'm open to collaborating on Backend development, django,Laravel
+*   🤝  I'm open to collaborating on Backend development, django,react js, next js 
 *  
 
 ### Skills 
