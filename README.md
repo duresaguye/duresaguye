@@ -2,7 +2,7 @@
 Hi 👋 My name is Duresa Guye
 ============================
 
-Web developer
+Fullstack developer,Frontend, Backend, AI/ML
 -------------
 
 *   🌍  I'm based in Ethiopia
