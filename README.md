@@ -2,13 +2,14 @@
 Hi 👋 My name is Duresa Guye
 ============================
 
+
 Fullstack developer,Frontend, Backend, AI/ML
 -------------
 
 *   🌍  I'm based in Ethiopia
 *   🖥️  See my portfolio at [duresa.me](http://duresa.me)
 *   ✉️  You can contact me at [dureguye2@gmail.com](mailto:dureguye2@gmail.com)
-*   🧠  I'm learning backend development djnago and Laravel
+*   🧠  I'm learning backend development djnago and AI/ML
 *   🤝  I'm open to collaborating on Backend development, django,react js, next js 
 *  
 
