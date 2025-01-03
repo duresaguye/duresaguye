@@ -11,7 +11,6 @@ Fullstack developer,Frontend, Backend, AI/ML
 *   ✉️  You can contact me at [dureguye2@gmail.com](mailto:dureguye2@gmail.com)
 *   🧠  I'm learning backend development djnago and AI/ML
 *   🤝  I'm open to collaborating on Backend development, django,react js, next js 
-*  
 
 ### Skills 
 <p align="left">
