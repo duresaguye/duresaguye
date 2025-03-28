@@ -7,7 +7,7 @@ Fullstack develope,data science enthusiast
 -------------
 
 *   🌍  I'm based in Ethiopia
-*   🖥  See my portfolio at [duresa.me](https://www.duresa.me/)
+*   🖥  See my portfolio at [duresa.me](https://portfolio.duresa.me/)
 *   ✉️  You can contact me at [dureguye2@gmail.com](mailto:dureguye2@gmail.com)
 *   🧠  I'm learning backend development djnago and AI/ML
 *   🤝  I'm open to collaborating on Backend development, django,react js, next js 
